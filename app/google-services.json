@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": REMOVED,
+    "firebase_url": "REMOVED",
+    "project_id": "REMOVED",
+    "storage_bucket": "REMOVED"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714275810604:android:b15ca622777b1d9c",
+        "android_client_info": {
+          "package_name": "agilestriders.assignment.com.mypasskbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714275810604-u4oul0jr5db2i4n2cup21uitd1vgdcm2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "714275810604-u4oul0jr5db2i4n2cup21uitd1vgdcm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzXwDh3HpFDZvsdDhrbkm0fbYrvXZ5Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

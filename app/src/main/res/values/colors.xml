@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1b61b7</color>
+    <color name="colorPrimaryDark">#2196f3</color>
+    <color name="colorAccent">#0fb6bf</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="Blue">#3F5996</color>
+
+
+    <color name="textColor">#66ffc8</color>
+    <color name ="MainText">#ff9679</color>
+    <color name="white">#ffff</color>
+    <color name="editTextBG">#DADADA</color>
+
+//Login and register
+    <color name="black">#2e3237</color>
+    <color name="button_color">#f2fe71</color>
+
+    //Tips Colours
+    <color name="tabtextcolor">#ffff</color>
+    <color name="tabindicatorcolor">#ffd60c</color>
+    <color name="TipsAppbar">#0e942e</color>
+
+    //NOTES COLOURS
+    <color name="NoteDate">#AC92EC</color>
+    <color name="NoteSub">#8465d2</color>
+    <color name="NoteTitle">#7d55e1</color>
+
+    //DASHBOARD COLORS
+    <color name="colorGrapeFruit">#ED5565</color>
+    <color name="colorGrapeFruitDark">#DA4453</color>
+    <color name="colorBitterSweet">#FC6E51</color>
+    <color name="colorBitterSweetDark">#E9573F</color>
+    <color name="colorFlower">#FFCE54</color>
+    <color name="colorFlowerDark">#F68B42</color>
+    <color name="colorGrass">#A0D468</color>
+    <color name="colorGrassDark">#8CC152</color>
+    <color name="colorBlueJeans">#509CEC</color>
+    <color name="colorBlueJeansDark">#4A89DC</color>
+    <color name="colorLavander">#AC92EC</color>
+    <color name="colorLavanderDark">#967ADC</color>
+    <color name="colorMint">#48CFAD</color>
+    <color name="colorMintDark">#37BC9B</color>
+    <color name="colorAqua">#4FC1E9</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="colorPinkRose">#EC87C0</color>
+    <color name="colorPinkRoseDark">#D770AD</color>
+
+    <color name="fab_pressed">#546e7a</color>
+
+    //Calendar
+
+</resources>
